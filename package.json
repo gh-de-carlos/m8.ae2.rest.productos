@@ -1,0 +1,20 @@
+{
+  "name": "m8.ae2.rest.productos",
+  "version": "1.0.0",
+  "description": "A tiny app to practise restful servers and proper http response codes handling.",
+  "license": "ISC",
+  "author": "Carlos Pizarro Morales",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "./tests/test.api.endpoints.sh",
+    "load-data": "./tests/test.load.data.sh"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
