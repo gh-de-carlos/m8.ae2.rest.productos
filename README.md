@@ -1,10 +1,7 @@
 # M8 AE2 Servidor RESTful con "productos"
 
 Carlos Pizarro Morales
-
-## KATHY!!
-
-Si estás leyendo esta sección es porque olvidé terminar este README como corresponde. Si quieres, háblame por Discord y en un rato lo dejo listo para que puedas evaluar el proyecto más fácilmente. En su estado actual, está terminado pero hice varios cambios que hacen un poco enredado su uso sin documentación adecuada. O vas a tu riesgo. Como quieras! 😅
+Sebastián Gallegos Frías
 
 ## Contexto
 
@@ -134,10 +131,10 @@ La pregunta pide que sea una explicación breve, así que si quieres mirar en de
 
 ```bash
 # En el directorio donde crearás el proyecto:
-git clone [aun no creo el repo]
+git clone https://github.com/gh-de-carlos/m8.ae2.rest.productos
 
 # Navega al nuevo directorio
-cd [me falta crear el repo]
+cd m8.ae2.rest.productos
 
 # Instalar dependencias
 npm install
