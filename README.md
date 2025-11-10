@@ -1,7 +1,7 @@
 # M8 AE2 Servidor RESTful con "productos"
 
-Carlos Pizarro Morales
-Sebastián Gallegos Frías
+- Carlos Pizarro Morales
+- Sebastián Gallegos Frías
 
 ## Contexto
 
@@ -76,6 +76,7 @@ Cache-Control: public, max-age=600
 }
 ```
 También con un ejemplo real (dice que no nos pesca por http): 
+
 ![foto](./img_http.png)
 
 Actualmente se utiliza un rango de valores que va desde el 100 hasta el 599 para definir categorías de respuestas (**no hay 500 respuestas, solo 5 rangos y un poco más de 50 respuestas**):
