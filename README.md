@@ -2,6 +2,7 @@
 
 - Carlos Pizarro Morales
 - Sebastián Gallegos Frías
+- Hernán Barrales Alvarado
 
 ## Contexto
 
